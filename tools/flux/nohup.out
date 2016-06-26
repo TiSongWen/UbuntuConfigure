@@ -1,0 +1,7 @@
+/usr/local/lib/python2.7/dist-packages/fluxgui/fluxapp.py:100: GtkWarning: Cannot transform xsetting Net/IconThemeName of type gchararray to type GdkColor
+
+  gtk.gdk.screen_get_default().get_setting('gtk-icon-theme-name')
+/usr/local/lib/python2.7/dist-packages/fluxgui/fluxapp.py:100: GtkWarning: Cannot transform xsetting Net/IconThemeName of type gchararray to type gint
+
+  gtk.gdk.screen_get_default().get_setting('gtk-icon-theme-name')
+已在现有的浏览器会话中创建新的窗口。
